@@ -1,0 +1,107 @@
+#include <iostream>
+#include <windows.h>
+using namespace std;
+
+int main() {
+	1;
+	//double number;
+	//for (int i = 1; i <= 10; i++) {
+	//	number + i;  
+	//cout << number;
+
+	2;
+	//double a;
+	//cout << "write the beginning of the dianozone in celsius:";
+	//cin >> a;
+	//double b;
+	//cout << "write end of diazone in celsius:";
+	//cin >> b;
+	//for (double i = a; i <= b; i++) {
+	//	cout << "fahrenheits:" << (i * 9 / 5) + 32 << "\n";
+	//}
+	5; 
+		//double number1;
+		//cout << "print num:";
+		//cin >> number1; "\n";
+
+		//double number2;
+		//cout << "print num:";
+		//cin >> number2; "\n";
+
+		//double number3;
+		//cout << "print num:";
+		//cin >> number3; "\n";
+
+		//double number4;
+		//cout << "print num:";
+		//cin >> number4; "\n";
+
+		//double number5;
+		//cout << "print num:";
+		//cin >> number5; "\n";
+
+		//double number6;
+		//cout << "print num:";
+		//cin >> number6; "\n";
+
+
+		//cout << number1;
+		//cout << number2;
+		//cout << number3;
+		//cout << number4;
+		//cout << number5;
+		//cout << number6<<"-your numb\n";
+		//cout << "your number has 6 digits\n";
+		//cout << "sum your number:" << number1 + number2 + number3 + number4 + +number5 + number6;
+		7;
+		//int number;
+		//cout << "Enter a number: ";
+		//cin >> number;
+
+		//
+		//if (number % 1 || number % number) {
+		//	cout << "Your number is simple";
+		//}
+		//else {
+		//	cout << "Your number is difficult";
+		//}
+	9;
+	//int number1;
+	//cout << "print number\n";
+	//cin >> number1;
+
+	//int number2;
+	//cout << "print number\n";
+	//cin >> number2;
+
+	//int number3;
+	//cout << "print number\n";
+	//cin >> number3;
+
+	//int number4;
+	//cout << "print number\n";
+	//cin >> number4;
+
+	//int number5;
+	//cout << "print number\n";
+	//cin >> number5;
+
+	//int number6;
+	//cout << "print number\n";
+	//cin >> number6;
+
+
+	//if (number1 == number6 || number2 == number5 || number3 == number4)
+	//	cout << "your number is palindrom";
+	//else;
+	//	cout << "your numb is not palindrom";
+}
+
+
+
+
+
+
+
+
+	
