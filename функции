@@ -1,0 +1,28 @@
+2
+#include <iostream>
+using namespace std;
+typedef unsigned short ushort;
+void Line(ushort width, ushort height, char symbol) {
+    for (ushort y = 0; y < height; y++) {
+        for (ushort x = 0; x < width; x++) {
+            cout << symbol;
+        }
+        cout << "\n";
+    }
+}
+int main() {
+    Line(5, 10, '@');
+}
+3
+#include <iostream>
+using namespace std;
+int cub() {
+	double czislo;
+	cout << "print czislo";
+	cin >> czislo;
+	cout << czislo * czislo;
+}
+int main()
+{
+	cub();
+}
