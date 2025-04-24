@@ -1,0 +1,22 @@
+#include <iostream>
+#include <windows.h>
+using namespace std;
+int main()
+{
+    int pause = 15;
+    int height;
+    cout << "Enter size:";
+    cin >> height;
+    for (int y = 0; y < height; y++) {
+        for (int pustota = 0; pustota < height - y - 1; pustota++) {
+            cout << " ";
+            Sleep(pause);
+        }
+        for (int block = 0; block < 2 * y + 1; block++) {
+            cout << (char)178;
+            Sleep(pause);
+        }
+        cout << "\n";
+    }
+}
+
