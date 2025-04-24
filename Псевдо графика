@@ -4,11 +4,9 @@ using namespace std;
 int main()
 {
     int pause = 15;
-    int height;
-    cout << "Enter size:";
-    cin >> height;
-    for (int y = 0; y < height; y++) {
-        for (int pustota = 0; pustota < height - y - 1; pustota++) {
+    int N = 5;
+    for (int y = 0; y < N; y++) {
+        for (int pustota = 0; pustota < N - y - 1; pustota++) {
             cout << " ";
             Sleep(pause);
         }
@@ -19,4 +17,6 @@ int main()
         cout << "\n";
     }
 }
+
+
 
